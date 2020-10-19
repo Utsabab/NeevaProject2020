@@ -89,7 +89,7 @@ python editortest.py
 *  Make benchmark code more dynamic.
 *  Implement additional functionality like undo/redo, find/replace, etc.
 
-## Authors
+## Author
 
 Utsab Khakurel
 
